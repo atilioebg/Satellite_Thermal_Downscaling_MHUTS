@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or methodology, please cite the published paper below."
+title: "Satellite Thermal Downscaling via MHUTS: Landsat-8 and Sentinel-2 Multi-Sensor Fusion"
+authors:
+  - family-names: "Grondona"
+    given-names: "Atílio"
+    orcid: "https://orcid.org/0000-0002-3112-7065"
+  - family-names: "Gomes"
+    given-names: "Luciana Paulo"
+  - family-names: "Schiavo"
+    given-names: "Luis Miguel"
+  - family-names: "Caetano"
+    given-names: "Marcelo"
+  - family-names: "Barbosa"
+    given-names: "Bruno Jose B. L."
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Grondona"
+      given-names: "Atílio"
+    - family-names: "Gomes"
+      given-names: "Luciana Paulo"
+    - family-names: "Schiavo"
+      given-names: "Luis Miguel"
+    - family-names: "Caetano"
+      given-names: "Marcelo"
+    - family-names: "Barbosa"
+      given-names: "Bruno Jose B. L."
+  title: "Use of the downscalling method in satellite images for the analysis of heat islands in landfills"
+  journal: "Remote Sensing Applications: Society and Environment"
+  publisher: "Elsevier"
+  volume: 26
+  pages: "100702"
+  year: 2022
+  doi: "10.1016/j.rsase.2022.100702"
+  url: "https://doi.org/10.1016/j.rsase.2022.100702"

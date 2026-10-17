@@ -1,0 +1,21 @@
+# Agent & IDE internal configurations
+.agents/
+.gemini/
+.vscode/
+
+# MATLAB temporary and auto-save files
+*.asv
+*.m~
+*.mat
+TEMP_REF.mat
+resultados.mat
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output geotiffs/images from local runs
+*.tif
+*.tiff
+!data/sample/*.tif
